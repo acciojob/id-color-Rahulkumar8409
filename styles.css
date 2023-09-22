@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+
+.eg1{
+	background-color:yellow;
+	border:solid;
+	border-color: green;
+}
+.eg2{
+	background-color:red;
+	border:solid;
+	border-color:black;
+}
+.eg3{
+	background-color:green;
+	border:solid;
+	border-color: yellow;
+}
